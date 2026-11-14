@@ -1,0 +1,1 @@
+# DATAGOOL usa solo la biblioteca estándar de Python; no requiere dependencias.
